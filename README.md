@@ -9,4 +9,4 @@ techniques are trained to predict bike prediction in a interval.
 Authors- Mayank Kumar, Mayank Singh and Abhay Dagar.
 
 To run - Run this Command-Streamlit run app.py in the project directory
-
+Done
